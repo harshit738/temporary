@@ -1,4 +1,4 @@
-console.log("Hello5");
+console.log("Hello6");
 
 // git --version  => to see the version
 // git init  => to initalize git in folder
